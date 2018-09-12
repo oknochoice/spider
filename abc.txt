@@ -1,0 +1,44 @@
+\usr_doc.txt
+Page 13
+young intelligent turtle
+There's a special version of the undo command, the "U" (undo line) command.
+The undo line command undoes all the changes made on the last line that was
+edited. Typing this command twice cancels the preceding "U".
+A intelligent e
+xxxx Delete very
+A igent turtle%%%
+xxxxxx Delete turtle
+A intelligent
+Restore line with "U"
+A very intelligent turtle
+Undo "U" with "u"
+A intelligent
+The "U" command is a change by itself, which the "u" command undoes and CTRL−R
+redoes. This might be a bit confusing. Don't worry, with "u" and CTRL−R you
+can go to any of the situations you had. More about that in section |32.2|.
+==============================================================================
+See |Q_in| and below.
+APPENDING
+The "i" command inserts a character bef
+\usr_doc.txt
+Page 13
+young intelligent turtle
+There's a special version of the undo command, the "U" (undo line) command.
+The undo line command undoes all the changes made on the last line that was
+edited. Typing this command twice cancels the preceding "U".
+A intelligent e
+xxxx Delete very
+A igent turtle%%%
+xxxxxx Delete turtle
+A intelligent
+Restore line with "U"
+A very intelligent turtle
+Undo "U" with "u"
+A intelligent
+The "U" command is a change by itself, which the "u" command undoes and CTRL−R
+redoes. This might be a bit confusing. Don't worry, with "u" and CTRL−R you
+can go to any of the situations you had. More about that in section |32.2|.
+==============================================================================
+See |Q_in| and below.
+APPENDING
+The "i" command inserts a character bef
